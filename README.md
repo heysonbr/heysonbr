@@ -5,7 +5,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-45b8d8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-TailwindCss-45b8d8?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
