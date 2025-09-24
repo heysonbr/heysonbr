@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate fullstack developer from Spain<br>🔭 I’m currently working on Bubbo<br><br>👨‍💻 All of my projects are available at https://heysondev.netlify.app/<br><br>📫 How to reach me heysonbr@gmail.com<br><br>
+A passionate fullstack developer from Spain<br>🔭 I’m currently working on Bubbo<br><br>👨‍💻 All of my projects are available at https://heyson.dev/<br><br>📫 How to reach me heysonbr@gmail.com<br><br>
 
 
 ## 🌐 Socials:
